@@ -8,4 +8,4 @@
 
 # Uygulama
 
-Uygulamaya gitmek için [![Netlify Status](https://api.netlify.com/api/v1/badges/034c7cec-ba5d-435a-8a43-0cf9389659ab/deploy-status)](https://app.netlify.com/sites/muhsinarslanhomework3/deploys)tıklayınız.
+Uygulamaya gitmek için [Buraya](https://muhsinarslanhomework3.netlify.app/) tıklayınız.
